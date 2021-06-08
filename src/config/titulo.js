@@ -1,2 +1,2 @@
 module.exports =
-  'Componente Formativo con un nombre extremadamente largo y extenso'
+  'Desarrollo de habilidades digitales para construcción de contenido digital'

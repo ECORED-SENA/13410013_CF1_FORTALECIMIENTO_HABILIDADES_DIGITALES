@@ -4,137 +4,100 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .titulo-principal
-      .h3 Producción Audiovisual
+      .titulo-principal__numero
+        span 2
+      h1 Tipos de contenido digital
+    figure.mb-5
+      img(src='@/assets/curso/t2-i1.svg', alt='representación organizada de los tipos de contenido digital')
+    p.text-bold.mb-5  Los prototipos de formatos con contenidos digitales que las personas o las empresas comparten se pueden clasificar de la siguiente manera:
     
     #t_2_1.titulo-segundo
-      .h4 2.1 Infografía Animada
+      .h4 2.1 Básicos
     
-    p.mb-4 Propuesta infográfica en animación que refuerce un tema y matice conceptos dados de manera creativa y con intención pedagógica.
+    p.mb-4 Son aquellos que cualquier persona con acceso a un dispositivo móvil puede crear y publicar en sus redes sociales, estos son:
+    .row.justify-content-center.text-center
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i2.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Fotografía digital
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i3.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Video grabado o video en vivo
+    .row.justify-content-center.text-center
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i4.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Audio
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i5.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Texto
+    .separador
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    br
+    br
 
     #t_2_2.titulo-segundo
-      .h4 2.2 Video Motion
+      .h4 2.2  Intermedios
 
-    p.mb-4 Animación digital que crea la ilusión de movimiento mediante imágenes, fotografías, títulos, colores y diseños.
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    p.mb-4 El contenido digital intermedio es aquel que requiere el uso de herramientas de edición para producirlo e incluso, puede ser creado desde el dispositivo móvil; la mayoría se desarrolla con un objetivo de comunicación, además el contenido es planeado.
+    .row
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i6.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Infografía
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i7.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Póster
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i8.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Presentaciones
+    .row.justify-content-center
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i9.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Video promocional
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i10.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Podcast
+      
+      .separador
+    br
+    br
     #t_2_3.titulo-segundo
-      .h4 2.3 Motion + Presentador
+      .h4 2.3 Avanzados
+    p.mb-4  Este tipo de contenidos digitales requieren de profesionales en el área para producirlos.
+    p.mb-4  En esta categoría se pueden encontrar:
+    .row
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i11.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Videojuegos
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i12.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Videos seriados
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i13.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 e-book interactivos
+    .row.justify-content-center.mb-5
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i14.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Páginas Web 
+      .col-lg-4
+        figure.mb-5
+          img(src='@/assets/curso/t2-i15.svg', alt='representación organizada de los tipos de contenido digital')
+        .h4 Seminarios Web o webinar
+      
+    .cajon.color-primario.p-4.mb-4
+        p Existe una larga lista de modelos u opciones de contenidos digitales que se pueden crear, incluyendo combinaciones entre ellos; un ejemplo muy común se encuentra en las páginas de venta de productos, en las cuales se halla un carrusel de imágenes (más de dos imágenes en la misma publicación) y en algunos casos, acompañado de un video explicativo del producto. Pero, la decisión sobre qué tipo de contenido digital debe crear para su emprendimiento dependerá de la planeación del contenido, tema que se aborda a continuación.
 
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ky73iaXuuTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_4.titulo-segundo
-      .h4 2.4 Animación 2D
-
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/3b8VctSm558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_5.titulo-segundo
-      .h4 2.5 Video interactivo
-
-    p.mb-4 Visualización de videos con diferentes tipos de preguntas o anotaciones.
-
-    figure.mb-5
-      .video
-        iframe(src="https://vizia.co/videos/94d994c5fe93f1b08a60eb/embed" allowtransparency="true" frameborder="0" scrolling="no" width="640" height="390")
-
-    #t_2_6.titulo-segundo
-      .h4 2.6 Infografías
-
-    p.mb-4 Es una herramienta de comunicación de alta precisión, el cual tiene una narrativa gráfica con un texto corto acompañada de elementos visuales que tienen como intención de captar rápidamente la atención del lector. 
-
-    figure.mb-5
-      img(src='@/assets/curso/infografia-1.jpg', alt='Infografía Fundamentos del Servicio de Interpretación')
-      figcaption Fundamentos del Servicio de Interpretación
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Fundamentos del Servicio de Interpretación
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/fundamentos_del_servicio_de_Interpretacion.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-2.jpg', alt='Infografía Plan de Negocios')
-      figcaption Plan de Negocios
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Plan de Negocios
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/plan_de_negocios.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-3.jpg', alt='Infografía Cobertura poblacional')
-      figcaption Cobertura poblacional
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Cobertura poblacional
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/cobertura_poblacional.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-4.jpg', alt='Infografía Historia de las microfinanzas: Mohammad Yunus')
-      figcaption Historia de las microfinanzas: Mohammad Yunus
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Historia de las microfinanzas: Mohammad Yunus
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/historia_de_las_microfinanzas_mohammad_yunus.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-5.jpg', alt='Infografía Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica')
-      figcaption Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/psicologia_de_la_moda.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
 
 </template>
 

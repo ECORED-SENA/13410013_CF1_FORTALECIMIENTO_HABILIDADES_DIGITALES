@@ -2,24 +2,31 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
-    #t_3_1.pb-5.h2 tema 3.1
-    .pb-5(v-for="item of 15")
+    .titulo-principal
+      .titulo-principal__numero
+        span 3
+      h1  Objetivos de comunicación asociados al contenido digital
+    .row.mb-5
+      .col-lg-3
+        figure
+          img(src='@/assets/curso/t3-i1.svg')
+      .col-lg-9
+        p.mb-4  Es importante comprender que toda acción tiene una reacción, por ese motivo, cada vez que publique un contenido en sus redes sociales, este ocasionará ciertas reacciones.
+        p.mb-4.text-bold  Por eso, antes de producir una pieza digital la debe proyectar, y para hacerlo, es vital que defina los objetivos que desea alcanzar.
+    p.mb-4  En el siguiente video puede conocer cuales son los objetivos de comunicación asociados al contenido digital, y luego cuenta con la posibilidad de analizar un ejemplo.
 
-    #t_3_2.pb-5.h2 tema 3.2
-    .pb-5(v-for="item of 15")
+    figure
+    .video.mb-5
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //-- figcaption Video: Leyenda del video
+    .row
+      .col-lg-10
+        .cajon.color-primario.p-4.mb-4
+          p Al finalizar el video analice  
+            span.text-bold ¿qué información considera que debe llevar ese post que compartirá la empresa en sus redes sociales?
 
-    #t_3_3.pb-5.h2 tema 3.3
-    .pb-5(v-for="item of 15")
 
-    #t_3_4.pb-5.h2 tema 3.4
-    .pb-5(v-for="item of 15")
 
-    #t_3_5.pb-5.h2 tema 3.5
-    .pb-5(v-for="item of 15")
-
-    #t_3_6.pb-5.h2 tema 3.6
-    .pb-5(v-for="item of 15")
 
 </template>
 
