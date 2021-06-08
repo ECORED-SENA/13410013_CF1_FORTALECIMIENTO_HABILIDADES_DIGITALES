@@ -140,7 +140,7 @@
     br
     br
     #t_5_2.titulo-segundo
-      .h4 5.2 Tipos de licencias
+      .h4 5.2 Fuentes de contenido libre
     p.mb-3  Este tipo de contenido alcanza las creaciones de dominio público en las que se otorgan derechos de uso sin restricciones legales. Es de resaltar que libre no es igual a gratis, ya que en algunos casos el autor recibe donaciones o incentivos por sus contenidos, también se debe mencionar que existen licencias abiertas que son libres porque pueden prohibir algunos usos de su obra o solicitar atribución que sería lo normalmente correcto.
     p.mb-5  Algunas fuentes de contenido libre son:
     .row.justify-content-center
