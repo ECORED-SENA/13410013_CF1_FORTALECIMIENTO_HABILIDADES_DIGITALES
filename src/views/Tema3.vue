@@ -12,7 +12,7 @@
           img(src='@/assets/curso/t3-i1.svg')
       .col-lg-9
         p.mb-4  Es importante comprender que toda acción tiene una reacción. Por este motivo, cada vez que publiquemos un contenido en nuestras redes sociales, este ocasionará ciertas reacciones.
-        p.mb-4.text-bold  Por eso, antes de producir la pieza digital, debemos 
+        p.mb-4  Por eso, antes de producir la pieza digital, debemos 
           span.text-bold proyectar 
           | y, para hacerlo, es vital definir los objetivos que se desean alcanzar.
     p.mb-4 En el siguiente video, conoceremos qué son los objetivos de comunicación asociados al contenido digital, y analizaremos un ejemplo.
