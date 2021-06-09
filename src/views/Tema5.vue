@@ -13,16 +13,15 @@
     
     .row.mb-5
       .col-lg-7
-        p.mb-3  La propiedad intelectual es entendida como toda creación del intelecto humano, y sus derechos se protegen por la ley a través de dos ramas: la propiedad industrial y el derecho de autor.
-        p.mb-3  En este caso se utiliza los derechos de autor, como su nombre lo indica se refiere al reconocimiento que se le da a un autor por ley respecto a la creación de sus obras, ya sean artísticas, literarias, musicales, científicas, inéditas, etc. Su objetivo es la protección original de quien crea estas obras, aclarando que, además de proteger desde la parte legal, se hace de manera moral y patrimonial.
-        p.mb-3  Con lo anterior se busca que quienes extraigan alguna obra conozcan que tiene un creador y que a él debe dársele su respectiva atribución, o en su defecto, solicitar un permiso para utilizarla, sea para fines educativos o simplemente para beneficio propio.
-        p.mb-3  Para ampliar el tema sobre derechos de autor lea el documento de la 
-          span.text-bold Organización Mundial de la Propiedad Intelectual OMPI 
-          | denominado “Principios básicos del derecho de autor y los derechos conexos”, que se encuentra en el material complementario.
+        p.mb-3  La propiedad intelectual es entendida como toda creación del intelecto humano, y sus derechos se protegen por la ley, a través de dos ramas: la propiedad industrial y el derecho de autor.
+        p.mb-3  En nuestro caso, utilizaremos los derechos de autor. Como su nombre lo indica, se refiere al reconocimiento que se le da a un autor, por ley, con respecto a la creación de sus obras, ya sean artísticas, literarias, musicales, científicas, inéditas, etc. Su objetivo es la protección original de quien crea estas obras, aclarando que, además de proteger desde la parte legal, se hace de manera moral y patrimonial.
+        p.mb-3  Con lo anterior, lo que se busca es que, quienes extraigan alguna obra, sepan que tiene un creador y que a este debe dársele su respectiva atribución o, en su defecto, solicitarle un permiso para utilizarla, sea para fines educativos o simplemente para beneficio propio.
+        p.mb-3  Para ampliar el tema sobre derechos de autor, lo invitamos a leer el documento de 
+          span.text-bold la Organización Mundial de la Propiedad Intelectual OMPI, 
+          | denominado “Principios básicos del derecho de autor y los derechos conexos”, el cual se encuentra en el material complementario.
         p.mb-3  Ahora bien, dentro de los derechos de autor que protegen las obras ya mencionadas, 
-          span.text-bold existen licencias 
-          | que se ofrecen dependiendo el uso que se le pretende dar, 
-          span.text-bold  por ello a continuación, se revisa cada una de ellas.
+          span.text-bold existen licencias que se ofrecen dependiendo del motivo que se quiere. 
+          | Estudiemos cada una de ellas. 
       .col-lg-5
         figure
           img(src='@/assets/curso/t5-i1.jpg')
@@ -31,8 +30,9 @@
     br
     #t_5_1.titulo-segundo
       .h4 5.1 Tipos de licencias
-    p.mb-3  A través de la Web se pueden encontrar recursos muy interesantes que se utilizan para enriquecer los contenidos digitales como imágenes, videos, audios, entre otros; sin embargo, es importante diferenciar qué tipo de contenidos se pueden usar y cuándo los derechos de autor permiten la reutilización de estos.
-    p.mb-5  Es por eso que, a continuación, se abordan los diferentes tipos de licencias:
+    p.mb-3  A través de la web, se pueden encontrar recursos muy interesantes que se utilizan para enriquecer los contenidos digitales como imágenes, videos, audio, entre otros. Sin embargo, es importante diferenciar qué tipo de contenidos se pueden usar y cuándo los derechos de autor permiten la reutilización de estos.
+    p.mb-5  Es por eso que, a continuación, 
+      span.text-bold abordaremos los diferentes tipos de licencias:
     //-- tabs
     TabsC.mb-5
       .py-3.py-md-4(titulo="Copyright")
@@ -67,7 +67,8 @@
               //--figcaption Leyenda de la imagen
 
     br
-    p.mb-5  Pero debe tener en cuenta que la Licencia Creative Commons tiene cuatro condiciones y seis combinaciones de esas condiciones. La siguiente infografía explica cada una de ellas.
+    p.mb-5  Pero debes tener en cuenta que 
+      span.text-bold la licencia Creative Commons tiene cuatro condiciones y 6 combinaciones de esas condiciones. La siguiente imagen explica cada una de ellas.
     .row.justify-content-center
       .col-lg-10
         .tabla-b__header
@@ -141,8 +142,8 @@
     br
     #t_5_2.titulo-segundo
       .h4 5.2 Fuentes de contenido libre
-    p.mb-3  Este tipo de contenido alcanza las creaciones de dominio público en las que se otorgan derechos de uso sin restricciones legales. Es de resaltar que libre no es igual a gratis, ya que en algunos casos el autor recibe donaciones o incentivos por sus contenidos, también se debe mencionar que existen licencias abiertas que son libres porque pueden prohibir algunos usos de su obra o solicitar atribución que sería lo normalmente correcto.
-    p.mb-5  Algunas fuentes de contenido libre son:
+    p.mb-3  Este tipo de contenido alcanza las creaciones de dominio público donde se otorgan derechos de uso sin restricciones legales. Es de resaltar que libre no es igual a gratis, ya que, en algunos casos, el autor recibe donaciones o incentivos por sus contenidos; también se debe mencionar que existen licencias abiertas que son libres, porque pueden prohibir algunos usos de su obra o solicitar atribución que sería lo normalmente correcto.
+    p.mb-5  Algunas fuentes de contenido libre son las siguientes:
     .row.justify-content-center
       .col-lg-4
         figure
@@ -173,9 +174,9 @@
       .h4 5.3 Atribución de derechos
     .row
       .col-lg-7
-        p.mb-3  El sitio donde se encuentra alojado el dominio público podrá solicitar que se haga una atribución al creador del contenido o al sitio que aloja el contenido.
-        p.mb-3  En la biblioteca musical de YouTube https://www.youtube.com/audiolibrary/music?ar=1602879084095&nv=1 por ejemplo, se puede filtrar la búsqueda por archivo de audio que requiera atribución y los que no lo necesiten.
-        p.mb-3  Tenga en cuenta que la no atribución de una obra podría traer implicaciones legales, las cuales van desde aspectos económicos con multas hasta procesos legales que podrían llevar a la cárcel a quien se tome como propia una obra con su respectiva atribución. Por lo tanto, es muy importante saber qué tipo de obra se toma y consultar los respectivos permisos que esta tiene, debido a que hay algunas que no requieren atribución, pero otras que sí.
+        p.mb-3  El sitio donde se encuentre alojado el dominio público, podrá solicitar que se haga una atribución al creador del contenido o al sitio que aloja al contenido.
+        p.mb-3  En la biblioteca musical de YouTube https://www.youtube.com/audiolibrary/music?ar=1602879084095&nv=1, por ejemplo, se puede filtrar la búsqueda por archivo de audio que requiera atribución y los que no lo necesiten.
+        p.mb-3  Ten en cuenta que la no atribución de una obra podría traer implicaciones legales, las cuales van desde aspectos económicos con multas, hasta procesos legales que podrían llevar a la cárcel a quien se tome como propia una obra de su respectiva atribución. Por lo tanto, es muy importante saber qué tipo de obra se toma y consultar los respectivos permisos que esta tiene, debido a que hay algunas que no requieren atribución, pero otras que sí.
         
       .col-lg-5.mb-5
         figure
@@ -183,10 +184,7 @@
     .row
       .col-lg-12
         .cajon.color-primario.p-4.mb-4
-          p 
-            span.text-bold  El consejo 
-            | es que nunca debe tomar algo como propio si no lo es, porque cada creación tiene un autor y, además, su atribución es un reconocimiento al autor por la obra que hizo y que le fue de utilidad en sus proyectos, ya sean laborales, educativos o personales. 
-            span.text-bold Asimismo, con su atribución se apoya el trabajo del autor y se pagan sus derechos patrimoniales.
+          p.text-bold El consejo es que nunca debemos tomar algo como propio si no lo es, porque cada creación tiene un autor y, además, su atribución es un reconocimiento al autor por la obra que hizo y que le fue de utilidad en sus proyectos, ya sean laborales, educativos o personales. Asimismo, con su atribución se apoya el trabajo del autor y se pagan sus derechos patrimoniales.
 
 
 

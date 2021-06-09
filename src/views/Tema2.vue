@@ -42,7 +42,8 @@
     #t_2_2.titulo-segundo
       .h4 2.2  Intermedios
 
-    p.mb-4 El contenido digital intermedio es aquel que requiere el uso de herramientas de edición para producirlo e incluso, puede ser creado desde el dispositivo móvil; la mayoría se desarrolla con un objetivo de comunicación, además el contenido es planeado.
+    p.mb-3 El contenido digital intermedio es aquel que requiere el uso de herramientas de edición para producirlas e incluso pueden ser creadas desde el dispositivo móvil. La mayoría se desarrollan con un objetivo de comunicación y son contenidos planeados.
+    p.mb-4 Algunas de las más conocidas son:
     br
     .row.mb-5
       .col-lg-4
@@ -72,8 +73,8 @@
     br
     #t_2_3.titulo-segundo
       .h4 2.3 Avanzados
-    p.mb-4  Este tipo de contenidos digitales requieren de profesionales en el área para producirlos.
-    p.mb-4  En esta categoría se pueden encontrar:
+    p.mb-4  Este tipo de contenidos digitales requieren de profesionales, en el área, para producirlos.
+    p.mb-4  En esta categoría podemos encontrar:
     br
     .row.mb-5
       .col-lg-4
@@ -99,7 +100,8 @@
         .h4 Seminarios Web o webinar
       
     .cajon.color-primario.p-4.mb-4
-        p Existe una larga lista de modelos u opciones de contenidos digitales que se pueden crear, incluyendo combinaciones entre ellos; un ejemplo muy común se encuentra en las páginas de venta de productos, en las cuales se halla un carrusel de imágenes (más de dos imágenes en la misma publicación) y en algunos casos, acompañado de un video explicativo del producto. Pero, la decisión sobre qué tipo de contenido digital debe crear para su emprendimiento dependerá de la planeación del contenido, tema que se aborda a continuación.
+      p.mb-3 Existe una larga lista de modelos u opciones de contenidos digitales que podemos crear, incluyendo combinaciones entre ellos; un ejemplo, muy común, se puede observar en las páginas de venta de productos, donde podemos encontrar un carrusel de imágenes (más de 2 imágenes en la misma publicación) y en algunos casos, acompañado de un video explicativo del producto. 
+      p.text-bold Pero, la decisión de qué tipo de contenido digital debo crear para mi emprendimiento, dependerá de la planeación del contenido, tema que aprenderemos a continuación.
 
 
 </template>

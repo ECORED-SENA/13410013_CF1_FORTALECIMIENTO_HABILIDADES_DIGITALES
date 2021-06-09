@@ -11,8 +11,9 @@
         figure
           img(src='@/assets/curso/t1-i1.svg')
       .col-lg-9
-        p.mb-4  Constantemente se está interactuando con el contenido digital, muchas veces sin prestar atención a sus detalles y características, y al desconocer esta información, se desaprovecha todo el potencial que puede brindar para el marketing de sus emprendimientos.
-        p.mb-4.text-bold  Por ello, se recomienda que vea el siguiente video, en el cual se explica los conceptos básicos y las características del contenido digital.
+        p.mb-4  Constantemente estamos interactuando con contenido digital; muchas veces sin prestar atención a sus detalles y características y, al desconocer esta información, desaprovechamos todo el potencial que pueden brindarnos para el marketing de nuestros emprendimientos.
+        p.mb-4  Por ello, se recomienda que vea el siguiente video, en el cual 
+          span.text-bold se explicarán los conceptos básicos y las características del contenido digital.
     
     figure
     .video.mb-5
@@ -22,8 +23,8 @@
     .row
       .col-lg-7
         .cajon.color-primario.p-4.mb-4
-          p Al finalizar el video, 
-            span.text-bold cuestiónese sobre cuál es el contenido digital que más utiliza.
+          p Al finalizar el video, analiza: 
+            span.text-bold ¿cuál es el contenido digital que más utilizas?
 
   
 </template>

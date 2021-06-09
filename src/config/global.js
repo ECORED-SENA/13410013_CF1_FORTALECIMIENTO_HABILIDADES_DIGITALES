@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Desarrollo de habilidades digitales para construcción de contenido digital',
+    componenteFormativo: 'Contenido, planeación digital y derechos de autor',
     descripcionCurso:
-      'El desarrollo de este componente es una introducción a temas necesarios para iniciar el proceso de construcción de contenidos digitales desde las características básicas del contenido digital, la definición de objetivos, la planeación digital y los derechos de autor.',
+      'El desarrollo de este componente es introductorio a temas necesarios para iniciar en el proceso de construcción de contenidos digitales desde las características básicas del contenido digital, definición de objetivos, planeación digital y derechos de autor.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },

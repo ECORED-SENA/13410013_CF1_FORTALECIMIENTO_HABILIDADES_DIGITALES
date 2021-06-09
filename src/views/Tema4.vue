@@ -11,7 +11,10 @@
         figure
           img(src='@/assets/curso/t4-i1.svg')
       .col-lg-9
-        p.mb-4  El primer paso para la creación de contenidos digitales es la planeación, de manera que a través del siguiente video puede comprender por qué es importante y cómo utilizar una herramienta indispensable para ese proceso: el calendario editorial.
+        p.mb-4  El primer paso en la creación de contenidos digitales es 
+          span.text-bold  la planeación 
+          | y, en el siguiente video, comprenderemos porqué es importante y cómo utilizar una herramienta indispensable en ese proceso: 
+          span.text-bold  el calendario editorial. 
     
     figure
     .video.mb-5
@@ -28,8 +31,6 @@
                 | Formato calendario de contenido.
     
     h3.titulo-tercero ¿Por qué nunca debe faltar un calendario?
-    p.mb-3  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus id, vulputate turpis. Maecenas cursus ante a diam porttitor mollis. Etiam vehicula dictum diam, eu pulvinar odio ultrices non. Vivamus viverra fermentum tortor, sit amet interdum nisl fermentum sed.
-
     .row.justify-content-center.customCards
       .col-lg-10
         .tarjeta-avatar-b.mb-5.align-items-center
@@ -68,10 +69,12 @@
     .row
       .col-lg-8
         .cajon.color-primario.p-4.mb-4
-          p Antes de ir al formato de calendario de contenido  
-            span.text-bold se realizará una planificación y una estrategia.
+          p Antes de ir al formato de calendario de contenido, 
+            span.text-bold realizaremos una planificación y una estrategia.
     
-    p.mb-4  Es importante que tenga presente que, para crear una estrategia de distribución sólida se necesita una segura comprensión de los objetivos del contenido. Las siguientes preguntas lo ayudarán a guiar en esta toma de decisión: 
+    p.mb-4 
+      span.text-bold  Es importante 
+      |  tener presente que, para crear una estrategia de distribución sólida, se necesita una segura comprensión de los objetivos de contenido. Las siguientes preguntas nos ayudarán a guiarnos en esta toma de decisiones:
     .row.justify-content-center
       .col-lg-10
         .tarjeta-avatar-b.mb-5.align-items-center
@@ -81,25 +84,25 @@
               ul.lista-ul
                 li 
                   i.fas.fa-check
-                  | ¿Cuál es el objetivo?
+                  | ¿Cuál es el objetivo? 
                 li 
                   i.fas.fa-check
-                  | ¿Qué está intentando lograr? Liderazgo de pensamiento, conversiones, conocimiento de la marca.
+                  | ¿Qué estás intentando lograr? Liderazgo de pensamiento, conversiones, conocimiento de la marca.
                 li 
                   i.fas.fa-check
-                  | ¿Qué quiere que la gente realice una vez que haya interactuado con el contenido? Ya sea que se trate de acciones en redes sociales, visitas a páginas o descargas de demostración ¿Qué se supone que debe ser su contenido? en última instancia.
+                  | ¿Qué quieres que la gente realice una vez que haya interactuado con el contenido? Ya sea que se trate de acciones en redes sociales, visitas a páginas o descargas de demostración. Qué se supone que debe ser su contenido, en última instancia.
                 li 
                   i.fas.fa-check
-                  | ¿A quiénes intenta llegar?, ¿qué tipo de contenido consumen?, ¿qué nivel de conocimiento poseen? Cuando comprenda quiénes son esas personas "adecuadas", podrá identificar mejor cómo crear contenido que les interese.
+                  | ¿A quién intentas llegar? ¿Qué tipo de contenido consumen? ¿Qué nivel de conocimiento poseen? Cuando comprendas quiénes son esas personas "adecuadas", podrás identificar mejor cómo crear contenido que les interese. 
                 li 
                   i.fas.fa-check
-                  | ¿Qué canales utilizará? Va a querer apuntar a los canales más efectivos y relevantes para llegar a las personas. Una estrategia de distribución sólida generalmente incluye una combinación de medios. 
+                  | ¿Qué canales utilizarás? Vas a querer apuntar a los canales más efectivos y relevantes para llegar a las personas. Una estrategia de distribución sólida, generalmente incluye una combinación de medios.  
     .row
       .col-lg-8
         .cajon.color-primario.p-4.mb-4
-          p Una vez que se tiene la 
-            span.text-bold comprensión básica de los objetivos 
-            |  se puede desarrollar el resto de la estrategia.
+          p Una vez que se tiene 
+            span.text-bold la comprensión básica de los objetivos, 
+            | se puede desarrollar el resto de la estrategia.
     br
     br
     br

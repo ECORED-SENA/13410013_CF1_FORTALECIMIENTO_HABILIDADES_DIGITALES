@@ -11,9 +11,11 @@
         figure
           img(src='@/assets/curso/t3-i1.svg')
       .col-lg-9
-        p.mb-4  Es importante comprender que toda acción tiene una reacción, por ese motivo, cada vez que publique un contenido en sus redes sociales, este ocasionará ciertas reacciones.
-        p.mb-4.text-bold  Por eso, antes de producir una pieza digital la debe proyectar, y para hacerlo, es vital que defina los objetivos que desea alcanzar.
-    p.mb-4  En el siguiente video puede conocer cuales son los objetivos de comunicación asociados al contenido digital, y luego cuenta con la posibilidad de analizar un ejemplo.
+        p.mb-4  Es importante comprender que toda acción tiene una reacción. Por este motivo, cada vez que publiquemos un contenido en nuestras redes sociales, este ocasionará ciertas reacciones.
+        p.mb-4.text-bold  Por eso, antes de producir la pieza digital, debemos 
+          span.text-bold proyectar 
+          | y, para hacerlo, es vital definir los objetivos que se desean alcanzar.
+    p.mb-4 En el siguiente video, conoceremos qué son los objetivos de comunicación asociados al contenido digital, y analizaremos un ejemplo.
 
     figure
     .video.mb-5
@@ -22,8 +24,8 @@
     .row
       .col-lg-10
         .cajon.color-primario.p-4.mb-4
-          p Al finalizar el video analice  
-            span.text-bold ¿qué información considera que debe llevar ese post que compartirá la empresa en sus redes sociales?
+          p Al finalizar el video, analiza: 
+            span.text-bold ¿qué información crees que debe llevar ese post que compartirá la empresa en sus redes sociales?
 
 
 
