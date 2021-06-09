@@ -19,7 +19,7 @@
     //-- figcaption Video: Leyenda del video
     .row.mb-4
       .col-lg-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/A1_CF01_4_Calendario.xlsx')" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-xls.svg")
             .anexo__texto
