@@ -15,6 +15,7 @@
       .h4 2.1 Básicos
     
     p.mb-4 Son aquellos que cualquier persona con acceso a un dispositivo móvil puede crear y publicar en sus redes sociales, estos son:
+    br
     .row.justify-content-center.text-center
       .col-lg-4
         figure.mb-5
@@ -42,6 +43,7 @@
       .h4 2.2  Intermedios
 
     p.mb-4 El contenido digital intermedio es aquel que requiere el uso de herramientas de edición para producirlo e incluso, puede ser creado desde el dispositivo móvil; la mayoría se desarrolla con un objetivo de comunicación, además el contenido es planeado.
+    br
     .row
       .col-lg-4
         figure.mb-5
@@ -72,6 +74,7 @@
       .h4 2.3 Avanzados
     p.mb-4  Este tipo de contenidos digitales requieren de profesionales en el área para producirlos.
     p.mb-4  En esta categoría se pueden encontrar:
+    br
     .row
       .col-lg-4
         figure.mb-5

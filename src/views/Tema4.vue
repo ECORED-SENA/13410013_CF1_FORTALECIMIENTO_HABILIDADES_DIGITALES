@@ -17,7 +17,7 @@
     .video.mb-5
       iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     //-- figcaption Video: Leyenda del video
-    .row
+    .row.mb-4
       .col-lg-4
         a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
             .anexo__icono
@@ -30,7 +30,7 @@
     h3.titulo-tercero ¿Por qué nunca debe faltar un calendario?
     p.mb-3  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus id, vulputate turpis. Maecenas cursus ante a diam porttitor mollis. Etiam vehicula dictum diam, eu pulvinar odio ultrices non. Vivamus viverra fermentum tortor, sit amet interdum nisl fermentum sed.
 
-    .row.justify-content-center
+    .row.justify-content-center.customCards
       .col-lg-10
         .tarjeta-avatar-b.mb-5.align-items-center
           img.h85(src='@/assets/curso/t4-i2.svg' alt='Icono bocina')
@@ -100,7 +100,9 @@
           p Una vez que se tiene la 
             span.text-bold comprensión básica de los objetivos 
             |  se puede desarrollar el resto de la estrategia.
-
+    br
+    br
+    br
 
 </template>
 
@@ -116,4 +118,5 @@ export default {
 <style lang="sass" scoped>
 .h85{height: 85px}
 .color-soft-blue{background-color: #F3F9FF}
+.customCards .tarjeta-avatar-b > div{padding-left: 6%}
 </style>

@@ -227,134 +227,112 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Agudelo, D. (2019, marzo 14). ¿Qué es una estrategia de contenidos y por qué es importante? [Web log post]. Triario.',
+      link: 'https://www.triario.co/blog/que-es-una-estrategia-contenidos',
+    },
+    {
+      referencia:
+        'Organización Mundial de la Propiedad Intelectual OMPI. (2016). Principios básicos del derecho de autor y los derechos conexos. ',
+      link: 'https://www.wipo.int/edocs/pubdocs/es/wipo_pub_909_2016.pdf',
+    },
+    {
+      referencia:
+        'Pérez, B., L. (s.f.). Los 4 tipos de objetivos que tienes que definir para el éxito de tu negocio. [Web log post]. Makinglovemarks.es',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
-    },
-    {
-      referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.makinglovemarks.es/blog/objetivos-estrategia-comunicacion/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+      termino: 'Autor',
+      significado: 'Persona física que realiza la creación intelectual.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Avatar',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Representación gráfica que identifica a un usuario. Los avatares pueden ser fotografías reales o dibujos animados.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Banner',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Forma de publicidad en Internet que consiste en incluir una pieza publicitaria gráfica dentro de una página Web; por lo general, se pone en el encabezado del sitio.',
     },
     {
-      termino: 'Áectores',
+      termino: 'Call to action',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Es un botón o enlace situado en un site que busca atraer clientes potenciales y convertirlos en clientes finales, normalmente a través de un formulario en una página de destino o landing page.',
     },
     {
-      termino: 'Moda',
+      termino: 'Comunicar',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Transmitir y recibir información por medio de un código común, de un emisor a un receptor.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Contenido de valor',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es el contenido que ayuda y aporta valor real a los usuarios. En Internet se puede distinguir entre el contenido de valor, el contenido comercial y el contenido de relleno, publicando contenido de valor en lugar de contenido comercial se logra que se comparta en redes sociales, fidelizar a los usuarios y llegar a nuevos clientes.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Copia o ejemplar',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Soporte material que contiene la obra como resultado de un acto de reproducción.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Formato de imagen',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Datos digitales en un formato específico, que permite ser visualizado en una computadora o dispositivo compatible; los más usados son PNG, JPEG, TIFF y GIF.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Infografía',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Combinación de imágenes y textos, sintética, explicativa y fácil de entender, con el fin de comunicar información de manera visual y simplificar su transmisión.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Live streaming',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Transmisión de contenido de audio o video de manera inmediata, sin necesidad de ser almacenada, por ejemplo, los programas de radio se transmiten en tiempo real.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Multimedia',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Se refiere a cualquier plataforma que utiliza diferentes medios de expresión para comunicar y dar a conocer información, desde texto e imágenes hasta gifs, videos y audios.',
+    },
+    {
+      termino: 'Objetivos',
+      significado: 'Fin que se quiere alcanzar y al cual se dirige una acción.',
+    },
+    {
+      termino: 'Planear',
+      significado:
+        'Acción que implica la elaboración de un plan o proyecto de trabajo, estudio o de alguna actividad a realizar en el futuro.',
+    },
+    {
+      termino: 'Podcast',
+      significado:
+        'Publicación digital en audio o video que se puede descargar o escuchar vía streaming. Suele alojarse en una página Web o blog, pero también en plataformas especializadas en audio como itunes, spotify o soundcloud.',
+    },
+    {
+      termino: 'Shooting',
+      significado:
+        'Sesión fotográfica en la que se hacen varias tomas del mismo producto para finalmente elegir la o las mejores imágenes que muestran lo que la marca quiere expresar sobre ese producto o servicio.',
+    },
+    {
+      termino: 'Stitching',
+      significado:
+        'Proceso por el cual se combinan múltiples imágenes (foto stiching) para producir una imagen panorámica o una de alta resolución, normalmente mediante un programa de ordenador.',
+    },
+    {
+      termino: 'Storytelling',
+      significado:
+        'Contar una historia sobre el producto a través de imágenes o videos, con el fin de lograr una mayor conexión con el cliente. Se representa lo que el producto le puede ofrecer o cómo se vería usándolo.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Derechos de autor: Organización Mundial de la Propiedad Intelectual OMPI. (2016). Principios básicos del derecho de autor y los derechos conexos.',
+      tipo: 'PDF',
+      link: 'https://www.wipo.int/edocs/pubdocs/es/wipo_pub_909_2016.pdf',
     },
   ],
 }
