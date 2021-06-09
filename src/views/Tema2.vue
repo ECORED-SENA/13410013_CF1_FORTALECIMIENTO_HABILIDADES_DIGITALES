@@ -16,22 +16,22 @@
     
     p.mb-4 Son aquellos que cualquier persona con acceso a un dispositivo móvil puede crear y publicar en sus redes sociales, estos son:
     br
-    .row.justify-content-center.text-center
+    .row.justify-content-center.mb-5
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i2.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Fotografía digital
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i3.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Video grabado o video en vivo
-    .row.justify-content-center.text-center
+    .row.justify-content-center
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i4.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Audio
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i5.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Texto
     .separador
@@ -44,26 +44,26 @@
 
     p.mb-4 El contenido digital intermedio es aquel que requiere el uso de herramientas de edición para producirlo e incluso, puede ser creado desde el dispositivo móvil; la mayoría se desarrolla con un objetivo de comunicación, además el contenido es planeado.
     br
-    .row
+    .row.mb-5
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i6.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Infografía
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i7.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Póster
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i8.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Presentaciones
     .row.justify-content-center
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i9.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Video promocional
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i10.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Podcast
       
@@ -75,26 +75,26 @@
     p.mb-4  Este tipo de contenidos digitales requieren de profesionales en el área para producirlos.
     p.mb-4  En esta categoría se pueden encontrar:
     br
-    .row
+    .row.mb-5
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i11.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Videojuegos
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i12.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Videos seriados
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i13.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 e-book interactivos
     .row.justify-content-center.mb-5
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i14.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Páginas Web 
       .col-lg-4
-        figure.mb-5
+        figure.mb-4
           img(src='@/assets/curso/t2-i15.svg', alt='representación organizada de los tipos de contenido digital')
         .h4 Seminarios Web o webinar
       

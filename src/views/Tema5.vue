@@ -58,8 +58,8 @@
       .py-3.py-md-4(titulo="Creative Commons")
         .row.justify-content-center
           .col-md-5.mb-4.mb-md-0
-            .h4 Celebrate your failures 3
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            .h4 Algunos derechos reservados 
+            p Cuando un contenido tiene el sello de Creative Commons (CC) se debe analizar muy bien para poder determinar el uso y la forma de autorización del autor. En muchos casos puede ser totalmente libre para difusión, comercialización, modificación, etc., y en otros casos se limita e incluye la atribución en la obra final.
         
           .col-md-5
             figure
@@ -207,7 +207,6 @@ export default {
 figcaption{ font-size: 16px; line-height: 20px}
 .tabla-b__header *{color: #fff}
 .b-botttom{border-bottom: 3px solid #C7F9CC}
-.tabs-c__tab--active{border-bottom-color: #22577A !important}
 .box-item{display: inline}
 .box-item figure{ margin-right: 15px; float: left}
 .box-item p{margin-top: 25px}
