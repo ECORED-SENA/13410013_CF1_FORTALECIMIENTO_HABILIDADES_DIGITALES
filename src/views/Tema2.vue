@@ -9,7 +9,7 @@
       h1 Tipos de contenido digital
     figure.mb-5
       img(src='@/assets/curso/t2-i1.svg', alt='representación organizada de los tipos de contenido digital')
-    p.text-bold.mb-5  Los prototipos de formatos con contenidos digitales que las personas o las empresas comparten se pueden clasificar de la siguiente manera:
+    p.text-bold.mb-5  Los prototipos de formatos con contenidos digitales que las personas o las empresas comparten, se pueden clasificar de la siguiente manera:
     
     #t_2_1.titulo-segundo
       .h4 2.1 Básicos
