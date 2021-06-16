@@ -175,9 +175,7 @@
     .row
       .col-lg-7
         p.mb-3  El sitio donde se encuentre alojado el dominio público, podrá solicitar que se haga una atribución al creador del contenido o al sitio que aloja al contenido.
-        p.mb-3  En la biblioteca musical de YouTube 
-          a(href="https://www.youtube.com/audiolibrary/music?ar=1602879084095&nv=1" target="_blank") https://www.youtube.com/audiolibrary/music?ar=1602879084095&nv=1, 
-          | por ejemplo, se puede filtrar la búsqueda por archivo de audio que requiera atribución y los que no lo necesiten.
+        p.mb-3  En la biblioteca musical de YouTube por ejemplo, se puede filtrar la búsqueda por archivo de audio que requiera atribución y los que no lo necesiten.
         p.mb-3  Ten en cuenta que la no atribución de una obra podría traer implicaciones legales, las cuales van desde aspectos económicos con multas, hasta procesos legales que podrían llevar a la cárcel a quien se tome como propia una obra de su respectiva atribución. Por lo tanto, es muy importante saber qué tipo de obra se toma y consultar los respectivos permisos que esta tiene, debido a que hay algunas que no requieren atribución, pero otras que sí.
         
       .col-lg-5.mb-5
