@@ -211,19 +211,24 @@ export default {
   referencias: [
     {
       referencia:
-        'Agudelo, D. (2019, marzo 14). ¿Qué es una estrategia de contenidos y por qué es importante? [Web log post]. Triario.',
+        'Ángeles, 2020, Contenidos digitales: qué son, tipos y ejemplos, Recuperado de ',
+      link: 'https://www.pantallea.com/contenidos-digitales-tipos-ejemplos/',
+    },
+    {
+      referencia:
+        'Diana Agudelo, 2019. ¿Qué es una estrategia de contenidos y por qué es importante?, Recuperado de ',
       link: 'https://www.triario.co/blog/que-es-una-estrategia-contenidos',
     },
     {
       referencia:
-        'Organización Mundial de la Propiedad Intelectual OMPI. (2016). Principios básicos del derecho de autor y los derechos conexos. ',
-      link: 'https://www.wipo.int/edocs/pubdocs/es/wipo_pub_909_2016.pdf',
+        'Luz Peréz Baz, 2020. Los 4 tipos de objetivos que tienes que definir para el éxito de tu negocio. Recuperado de ',
+      link:
+        'https://www.makinglovemarks.es/blog/objetivos-estrategia-comunicacion/',
     },
     {
       referencia:
-        'Pérez, B., L. (s.f.). Los 4 tipos de objetivos que tienes que definir para el éxito de tu negocio. [Web log post]. Makinglovemarks.es',
-      link:
-        'https://www.makinglovemarks.es/blog/objetivos-estrategia-comunicacion/',
+        'Organización Mundial de Propiedad Intelectual OMPI, 2018. La propiedad intelectual en el ámbito digital, Recuperado de ',
+      link: 'https://www.wipo.int/ip-outreach/es/ipday/2016/ip_digital.html',
     },
   ],
   glosario: [
@@ -239,7 +244,7 @@ export default {
     {
       termino: 'Banner',
       significado:
-        'Forma de publicidad en Internet que consiste en incluir una pieza publicitaria gráfica dentro de una página Web; por lo general, se pone en el encabezado del sitio.',
+        'Forma de publicidad en internet que consiste en incluir una pieza publicitaria gráfica dentro de una página web; por lo general, se pone en el encabezado del sitio.',
     },
     {
       termino: 'Call to action',
@@ -254,7 +259,7 @@ export default {
     {
       termino: 'Contenido de valor',
       significado:
-        'Es el contenido que ayuda y aporta valor real a los usuarios. En Internet se puede distinguir entre el contenido de valor, el contenido comercial y el contenido de relleno, publicando contenido de valor en lugar de contenido comercial se logra que se comparta en redes sociales, fidelizar a los usuarios y llegar a nuevos clientes.',
+        'Es el contenido que ayuda y aporta valor real a los usuarios. En internet se puede distinguir entre el contenido de valor, el contenido comercial y el contenido de relleno, publicando contenido de valor en lugar de contenido comercial se logra que se comparta en redes sociales, fidelizar a los usuarios y llegar a nuevos clientes.',
     },
     {
       termino: 'Copia o ejemplar',
@@ -293,7 +298,7 @@ export default {
     {
       termino: 'Podcast',
       significado:
-        'Publicación digital en audio o video que se puede descargar o escuchar vía streaming. Suele alojarse en una página Web o blog, pero también en plataformas especializadas en audio como itunes, spotify o soundcloud.',
+        'Publicación digital en audio o video que se puede descargar o escuchar vía streaming. Suele alojarse en una página web o blog, pero también en plataformas especializadas en audio como itunes, spotify o soundcloud.',
     },
     {
       termino: 'Shooting',
@@ -316,7 +321,7 @@ export default {
       texto:
         'Derechos de autor: Organización Mundial de la Propiedad Intelectual OMPI. (2016). Principios básicos del derecho de autor y los derechos conexos.',
       tipo: 'PDF',
-      link: 'https://www.wipo.int/edocs/pubdocs/es/wipo_pub_909_2016.pdf',
+      descarga: '/downloads/wipo_pub_909_2016.pdf',
     },
   ],
 }
