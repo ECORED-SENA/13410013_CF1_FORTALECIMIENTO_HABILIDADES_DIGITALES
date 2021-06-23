@@ -1,2 +1,1 @@
-module.exports =
-  'Desarrollo de habilidades digitales para construcción de contenido digital'
+module.exports = 'Contenido, planeación digital y derechos de autor'
