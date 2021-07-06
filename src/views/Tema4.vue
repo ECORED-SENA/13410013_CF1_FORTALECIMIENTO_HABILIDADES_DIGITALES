@@ -33,39 +33,52 @@
     h3.titulo-tercero ¿Por qué nunca debe faltar un calendario?
     .row.justify-content-center.customCards
       .col-lg-10
-        .tarjeta-avatar-b.mb-5.align-items-center
-          img.h85(src='@/assets/curso/t4-i2.svg' alt='Icono bocina')
-          .tarjeta.color-primario
-            .p-4
-              .h2 Aportar valor a la audiencia
-              p La audiencia sentirá que se le toma en serio y que se está creando para ella. Hablar por hablar en las redes sociales lo convierte en esa famosa cuenta “humo” y, por supuesto, es nada creativa.
+        TabsB.color-acento-contenido.mb-5
+          .py-4.py-md-5(titulo="Aportar valor a la audiencia" :icono="require('@/assets/curso/t4-i2.svg')")
+            .row.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                .h4 Aportar valor a la audiencia
+                p La audiencia sentirá que se le toma en serio y que se está creando para ella. Hablar por hablar en las redes sociales lo convierte en esa famosa cuenta “humo” y, por supuesto, es nada creativa.
+            
+              .col-md-3
+                figure
+                  img(src='@/assets/curso/t4-i2.svg', alt='Texto que describa la imagen')
 
-        .tarjeta-avatar-b.mb-5.align-items-center
-          img.h85(src='@/assets/curso/t4-i3.svg' alt='Icono bocina')
-          .tarjeta.color-primario
-            .p-4
-              .h2 Proyectar las ideas
-              p Mide las reacciones y se adapta con tiempo a los cambios necesarios para mejorar.
+          .py-4.py-md-5(titulo="Proyectar las ideas" :icono="require('@/assets/curso/t4-i3.svg')")
+            .row.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                .h4 Proyectar las ideas
+                p Mide las reacciones y se adapta con tiempo a los cambios necesarios para mejorar.
+              .col-md-3
+                figure
+                  img(src='@/assets/curso/t4-i3.svg' alt='Icono bocina')
+          .py-4.py-md-5(titulo="Rapidez para crear" :icono="require('@/assets/curso/t4-i4.svg')")
+            .row.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                .h4 Rapidez para crear
+                p Una vez que sus pilares se encuentren claros y casados con el modelo de calendario editorial, las ideas llegarán en cantidad industrial. Se sabe hacia donde va.
+              .col-md-3
+                figure
+                  img(src='@/assets/curso/t4-i4.svg' alt='Icono bocina')
+          .py-4.py-md-5(titulo="Producir + escuchar mejor" :icono="require('@/assets/curso/t4-i5.svg')")
+            .row.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                .h4 Producir + escuchar mejor
+                p El calendario editorial desarrolla un séptimo sentido: creación intuitiva. Se entiende mejor lo que se quiere comunicar y se entiende a la audiencia.
+              .col-md-3
+                figure
+                  img(src='@/assets/curso/t4-i5.svg' alt='Icono bocina')
+          .py-4.py-md-5(titulo="Conocer mejor al público" :icono="require('@/assets/curso/t4-i6.svg')")
+            .row.justify-content-center
+              .col-md-6.mb-4.mb-md-0
+                .h4 Conocer mejor al público
+                p Cada formato, cada temática, cada post tiene una audiencia diferente.
+              .col-md-3
+                figure
+                  img(src='@/assets/curso/t4-i6.svg' alt='Icono bocina')
 
-        .tarjeta-avatar-b.mb-5.align-items-center
-          img.h85(src='@/assets/curso/t4-i4.svg' alt='Icono bocina')
-          .tarjeta.color-primario
-            .p-4
-              .h2 Rapidez para crear
-              p Una vez que sus pilares se encuentren claros y casados con el modelo de calendario editorial, las ideas llegarán en cantidad industrial. Se sabe hacia donde va.
 
-        .tarjeta-avatar-b.mb-5.align-items-center
-          img.h85(src='@/assets/curso/t4-i5.svg' alt='Icono bocina')
-          .tarjeta.color-primario
-            .p-4
-              .h2 Producir + escuchar mejor
-              p El calendario editorial desarrolla un séptimo sentido: creación intuitiva. Se entiende mejor lo que se quiere comunicar y se entiende a la audiencia.
-        .tarjeta-avatar-b.mb-5.align-items-center
-          img.h85(src='@/assets/curso/t4-i6.svg' alt='Icono bocina')
-          .tarjeta.color-primario
-            .p-4
-              .h2 Conocer mejor al público
-              p Cada formato, cada temática, cada post tiene una audiencia diferente.
+
     .row
       .col-lg-8
         .cajon.color-primario.p-4.mb-4
