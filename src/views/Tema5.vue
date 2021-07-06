@@ -11,20 +11,6 @@
       iframe(width="560" height="315" src="https://www.youtube.com/embed/uKZZxlT4F5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     //-- figcaption Video: Leyenda del video
     
-    .row.mb-5
-      .col-lg-7
-        p.mb-3  La propiedad intelectual es entendida como toda creación del intelecto humano, y sus derechos se protegen por la ley, a través de dos ramas: la propiedad industrial y el derecho de autor.
-        p.mb-3  En nuestro caso, utilizaremos los derechos de autor. Como su nombre lo indica, se refiere al reconocimiento que se le da a un autor, por ley, con respecto a la creación de sus obras, ya sean artísticas, literarias, musicales, científicas, inéditas, etc. Su objetivo es la protección original de quien crea estas obras, aclarando que, además de proteger desde la parte legal, se hace de manera moral y patrimonial.
-        p.mb-3  Con lo anterior, lo que se busca es que, quienes extraigan alguna obra, sepan que tiene un creador y que a este debe dársele su respectiva atribución o, en su defecto, solicitarle un permiso para utilizarla, sea para fines educativos o simplemente para beneficio propio.
-        p.mb-3  Para ampliar el tema sobre derechos de autor, lo invitamos a leer el documento de 
-          span.text-bold la Organización Mundial de la Propiedad Intelectual OMPI, 
-          | denominado “Principios básicos del derecho de autor y los derechos conexos”, el cual se encuentra en el material complementario.
-        p.mb-3  Ahora bien, dentro de los derechos de autor que protegen las obras ya mencionadas, 
-          span.text-bold existen licencias que se ofrecen dependiendo del motivo que se quiere. 
-          | Estudiemos cada una de ellas. 
-      .col-lg-5
-        figure
-          img(src='@/assets/curso/t5-i1.jpg')
     .separador
     br
     br
