@@ -57,70 +57,54 @@
       span.text-bold la licencia Creative Commons tiene cuatro condiciones y 6 combinaciones de esas condiciones. La siguiente imagen explica cada una de ellas.
     .row.justify-content-center
       .col-lg-10
-        .tabla-b__header
-          .h4.mb-0  Condiciones creative commons
-        .row.p-5
-          .col-lg-6
-            .box-item.align-items-center
-              figure.w90
-                img.h90(src='@/assets/curso/t5-i5.svg', alt='Texto que describa la imagen')
-              p
-                span.text-bold Autoría: 
-                | siempre citar al autor.
-          .col-lg-6
-            .box-item.align-items-center
-              figure.w90
-                img.h90(src='@/assets/curso/t5-i6.svg', alt='Texto que describa la imagen')
-              p 
-                span.text-bold Sin obras derivadas: 
-                | no se permite la modificación del original.
-        .row.p-5
-          .col-lg-6
-            .box-item.align-items-center
-              figure.w90
-                img.h90(src='@/assets/curso/t5-i7.svg', alt='Texto que describa la imagen')
-              p
-                span.text-bold No comercial: 
-                | no se permite la comercialización, ni los fines lucrativos.
-          .col-lg-6
-            .box-item.align-items-center
-              figure.w90
-                img.h90(src='@/assets/curso/t5-i8.svg', alt='Texto que describa la imagen')
-              p 
-                span.text-bold Compartir igual:  
-                | permite modificación del original, manteniendo la misma licencia.
+        .tabla-b__header.mb-4 
+          .h4.mb-0 Condiciones creative commons
 
+        TabsA.color-acento-botones.mb-5
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Autoría")
+            .row.p-5
+              .col-lg-12
+                .box-item.align-items-center
+                  figure.w90
+                    img.h90(src='@/assets/curso/t5-i5.svg', alt='Texto que describa la imagen')
+                  p
+                    span.text-bold Autoría: 
+                    | siempre citar al autor.    
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Sin obras derivadas")
+            .row.p-5
+              .col-lg-12
+                .box-item.align-items-center
+                  figure.w90
+                    img.h90(src='@/assets/curso/t5-i6.svg', alt='Texto que describa la imagen')
+                  p
+                    span.text-bold Sin obras derivadas: 
+                    | no se permite la modificación del original.   
+          .tarjeta.color-acento-botones--borde.p-4(titulo="No comercial")
+            .row.p-5
+              .col-lg-12
+                .box-item.align-items-center
+                  figure.w90
+                    img.h90(src='@/assets/curso/t5-i7.svg', alt='Texto que describa la imagen')
+                  p
+                    span.text-bold No comercial: 
+                    | no se permite la comercialización, ni los fines lucrativos.  
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Compartir igual")
+            .row.p-5
+              .col-lg-12
+                .box-item.align-items-center
+                  figure.w90
+                    img.h90(src='@/assets/curso/t5-i8.svg', alt='Texto que describa la imagen')
+                  p
+                    span.text-bold Compartir igual: 
+                    | permite modificación del original, manteniendo la misma licencia.  
 
     .row.justify-content-center
       .col-lg-10
-        .tabla-b__header
-          .h4.mb-0  Combinación de condiciones
-        .row.p-5.b-botttom
-          .col-lg-4
-            figure
-              img.h90(src='@/assets/curso/t5-i9.svg' alt="icono CC e icono de persona")
-            figcaption.no-bg  Reconocimiento al autor.
-          .col-lg-4
-            figure
-              img.h90(src='@/assets/curso/t5-i10.svg' alt="icono CC, icono de persona, icono sin fines comerciales")
-            figcaption.no-bg  Reconocimiento al autor sin fines comerciales.
-          .col-lg-4
-            figure
-              img.h90(src='@/assets/curso/t5-i11.svg' alt="icono CC, icono de persona, icono sin fines comerciales")
-            figcaption.no-bg  Reconocimiento al autor. Permite modificaciones, pero sin fines comerciales.
-        .row.p-5.b-botttom
-          .col-lg-4
-            figure
-              img.h90(src='@/assets/curso/t5-i12.svg' alt="icono CC,  No se permite modificar la obra.")
-            figcaption.no-bg  Reconocimiento al autor. No se permite modificar la obra.
-          .col-lg-4
-            figure
-              img.h90(src='@/assets/curso/t5-i13.svg' alt="icono CC, Se permite comercializar")
-            figcaption.no-bg  Reconocimiento al autor. Se permite comercializar.
-          .col-lg-4
-            figure
-              img.h90(src='@/assets/curso/t5-i14.svg' alt="icono CC, sin fines comerciales y sin modificaciones")
-            figcaption.no-bg  Reconocimiento al autor, sin fines comerciales y sin modificaciones.
+        .tabla-b__header.mb-5
+          .h4.mb-0  Y de esas 4 condiciones salen las siguientes 6 combinaciones:
+        LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
+
+ 
 
     .separador
 
@@ -180,7 +164,37 @@
 export default {
   name: 'Tema5',
   data: () => ({
-    // variables de vue
+    datosLineaTiempoB: [
+      {
+        titulo: 'Reconocimiento al autor',
+        icono: require('@/assets/curso/t5-i9.svg'),
+      },
+      {
+        titulo: 'Reconocimiento al autor ',
+        texto: 'Sin fines comerciales.',
+        icono: require('@/assets/curso/t5-i10.svg'),
+      },
+      {
+        titulo: 'Reconocimiento al autor',
+        texto: 'Permite modificaciones, pero sin fines comerciales.',
+        icono: require('@/assets/curso/t5-i11.svg'),
+      },
+      {
+        titulo: 'Reconocimiento al autor',
+        texto: 'No se permite modificar la obra.',
+        icono: require('@/assets/curso/t5-i12.svg'),
+      },
+      {
+        titulo: 'Reconocimiento al autor',
+        texto: 'Se permite comercializar.',
+        icono: require('@/assets/curso/t5-i13.svg'),
+      },
+      {
+        titulo: 'Reconocimiento al autor:',
+        texto: 'Sin fines comerciales y sin modificaciones.',
+        icono: require('@/assets/curso/t5-i14.svg'),
+      },
+    ],
   }),
 }
 </script>
