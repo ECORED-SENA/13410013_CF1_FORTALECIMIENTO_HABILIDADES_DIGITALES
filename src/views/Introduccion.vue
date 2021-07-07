@@ -21,27 +21,27 @@
       .col-lg-5  
         .tarjeta-avatar-b.mb-3
           img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-light-yellow.r-0
             .p-3
               .h4 Qué es el mundo del contenido digital.
         .tarjeta-avatar-b.mb-3
           img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-light-yellow.r-0
             .p-3
               .h4 Qué son los objetivos de comunicación.        
         .tarjeta-avatar-b.mb-3
           img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-light-yellow.r-0
             .p-3
               .h4 Los tipos de contenido digital.
         .tarjeta-avatar-b.mb-3
           img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-light-yellow.r-0
             .p-3
               .h4 Los conceptos y características básicas necesarias.
         .tarjeta-avatar-b.mb-3
           img(src='@/assets/componentes/ej-05.svg' alt='AvatarTop')
-          .tarjeta.color-acento-botones
+          .tarjeta.color-light-yellow.r-0
             .p-3
               .h4 Cómo se planifican los contenidos digitales.
   
