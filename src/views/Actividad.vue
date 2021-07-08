@@ -10,12 +10,12 @@
             img(src="@/assets/template/emparejamiento.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          .h4 Actividad didáctica 1: Cuestionario
-        p.mb-4 La siguiente actividad tiene como propósito validar los conocimientos adquiridos en el tema contenido, planeación digital y derechos de autor.
+          .h4 Actividad didáctica: Condiciones de la licencia Creative Commons
+        p.mb-4 La siguiente actividad tiene como propósito identificar cuáles son las condiciones que tiene la licencia Creative Commons.
         .tarjeta.tarjeta--azul.p-3
           .row     
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
 
